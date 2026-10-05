@@ -1,0 +1,6 @@
+{
+  "name": "Adivina a la actriz - Угадай актрису",
+  "description": "Juego educativo interactivo de español para descubrir la foto oculta de una famosa actriz respondiendo preguntas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
